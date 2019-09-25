@@ -7,10 +7,12 @@
 - [r/place](http://sudoscript.com/reddit-place/)
 - [Daily Art](https://sasj.tumblr.com/) by Saskia Freeke
 - [Zach Lieberman](https://www.instagram.com/zach.lieberman/)
+- [What3Words](https://what3words.com/pages.explores.reaction)
 
 ## Talks
 - [Finding Yourself All Over Again](https://www.youtube.com/watch?v=X8fA3FeeowE) by Jessica Hische
 - [Do What You've Never Done Before](https://www.pentagram.com/about/paula-scher#video-do-what-youve-never-done-before) by Paula Scher
+- [The hilarious art of book design](https://www.youtube.com/watch?v=cC0KxNeLp1E) by Chip Kidd
 
 ## Useful Websites
 - [Artsy](https://www.artsy.net/)

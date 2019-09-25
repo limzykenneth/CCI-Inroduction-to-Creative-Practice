@@ -40,6 +40,7 @@ Your fellow course mates
 
 ## Reference
 - [AIGA: What is Design?](https://www.aiga.org/what-is-design)
+- [What3Words](https://what3words.com/pages.explores.reaction)
 - [D&AD Exercise: how to break down a brief](https://www.dandad.org/en/d-ad-how-to-break-down-a-brief-new-blood-advice/)
 - [RSA Student Design Awards Design Briefs](https://www.thersa.org/action-and-research/rsa-projects/design/student-design-awards/design-briefs)
 - [D&AD New Blood Briefs](https://www.dandad.org/en/d-ad-new-blood-awards/)
