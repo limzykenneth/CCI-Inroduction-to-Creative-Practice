@@ -14,52 +14,52 @@
 - 12:45 - Introducing the brief for the next two weeks
 - 13:15 - Q&A time
 
-## Week 3 (11 October 2019)
+## Week 3 (10 October 2019)
 - 09:30 - Introduction to crits
 - 10:00 - Workshop on critiquing creative works
 - 11:00 - Interim crit
 - 13:15 - Q&A time
 
-## Week 4 (18 October 2019)
+## Week 4 (17 October 2019)
 - 09:30 - Final crit
 - 11:30 - Introduction to creative research
 - 12:00 - Workshop on doing primary research
 - 13:00 - Introducing the brief for the next two weeks
 - 13:15 - Q&A time
 
-## Week 5 (25 October 2019)
+## Week 5 (24 October 2019)
 - 09:30 - Introduction to ideation methods
 - 10:00 - Ideation workshop
 - 11:00 - Interim crit
 - 13:15 - Q&A time
 
-## Week 6 (1 November 2019)
+## Week 6 (31 October 2019)
 - 09:30 - Final crit
 - 11:30 - Introduction to experimentation and interation
 - 12:00 - Introducing the brief for next two weeks and workshop on experimentation and iteration
 - 13:15 - Q&A time
 
-## Week 7 (8 November 2019)
+## Week 7 (7 November 2019)
 - 09:30 - Introduction to presentation
 - 10:00 - Mini presentation workshop
 - 11:45 - Interim crit
 - 13:15 - Q&A time
 
-## Week 8 (15 November 2019)
+## Week 8 (14 November 2019)
 - 09:30 - Presentation of work
 - TBD
 
-## Week 9 (22 November 2019)
+## Week 9 (21 November 2019)
 - TBD
 
-## Week 10 (29 November 2019)
+## Week 10 (28 November 2019)
 - TBD
 
-## Week 11 (6 December 2019)
+## Week 11 (5 December 2019)
 - TBD
 
-## Week 12 (10 January 2019)
+## Week 12 (9 January 2019)
 - TBD
 
-## Week 13 (17 January 2019)
+## Week 13 (16 January 2019)
 - TBD
