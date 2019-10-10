@@ -6,7 +6,7 @@ We will be introducing methods of conducting research in our creative projects i
 
 For the second session, we will build on the research done and introduce a few methods for generating ideas.
 
-At the end of this brief, you will have reinterpreted/translated the scene you picked into another medium. You are expected to show the research you have done, the ideation process you have undertaken, documentation of your processes, and the final outcome of your work at the third session.
+At the end of this brief, you will have reinterpreted/translated the scene you picked into an interactive medium. You are expected to show the research you have done, the ideation process you have undertaken, documentation of your processes, and the final outcome of your work at the third session.
 
 ## Preparation
 Pick a movie from the reference list below and watch it before the first session, pick any scene from the movie which you will be working with over the next two weeks. Bring some basic information about the movie you picked and also about the scene you picked to the first session (the year created, the director, the cinematographer, etc).
@@ -18,7 +18,7 @@ Cinema goers, movie fans
 
 ## Deliverables
 - Documentation of research, ideation, and process
-- Interpretation/transltion of a scene in any medium other than moving image
+- Interpretation/transltion of a scene in an interactive medium
 - Reflection
 
 ## Schedule
