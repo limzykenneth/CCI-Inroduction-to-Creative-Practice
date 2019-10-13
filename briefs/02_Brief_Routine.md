@@ -26,7 +26,7 @@ Your fellow course mates
 - 12:45 - Introducing the brief for the next two weeks
 - 13:15 - Q&A time
 
-#### 11 October 2019
+#### 10 October 2019
 - 09:30 - Introduction to crits
 - 10:00 - Workshop on critiquing creative works
 	- We will look at examples of creative works in our everyday lives, from the design of an app on our phones to the design of to building we are in. Use this as a chance to look at the designs that are all around us and practice talking about design in a critical but constructive way.
@@ -35,7 +35,7 @@ Your fellow course mates
 	- You should also provide constructive feedback to your peers during this session, either directly or using the post-it notes provided.
 - 13:15 - Q&A time
 
-#### 18 October 2019
+#### 17 October 2019
 - 09:30 - Final crit
 
 ## Reference

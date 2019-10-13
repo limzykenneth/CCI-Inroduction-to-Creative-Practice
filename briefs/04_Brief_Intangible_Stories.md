@@ -18,7 +18,7 @@ Children age 8-12 and their parents
 - A 2D or 3D piece, telling your chosen story in an appropriate and engaging way. You can use either physical materials or digital tools to create your piece, the piece itself can also be either physical or digital.
 
 ## Schedule
-#### 1 November 2019
+#### 31 October 2019
 - 11:30 - Introduction to experimentation and interation
 - 12:00 - Introducing the brief for next two weeks and workshop on experimentation and iteration
 	- Using the story you have chosen, summarise it into a 6 panel comic strip.
@@ -26,7 +26,7 @@ Children age 8-12 and their parents
 	- Use basic shapes, colours, layout, scale, and order to tell your story instead of relying on being literal.
 - 13:15 - Q&A time
 
-#### 8 November 2019
+#### 7 November 2019
 - 09:30 - Introduction to presentation
 - 10:00 - Mini presentation workshop
 	- Spend an hour planning a 2 minute presentation that tells your story in the most engaging ways possible.
@@ -36,7 +36,7 @@ Children age 8-12 and their parents
 	- You shoud use this crit session to iron out the final details of your piece.
 - 13:15 - Q&A time
 
-#### 15 November 2019
+#### 14 November 2019
 - 09:30 - Presentation of work
 	- Your work should already be finished and you will need to prepare a 5-minute presentation of your work before coming to this session.
 	- Bring your finished piece in if possible.

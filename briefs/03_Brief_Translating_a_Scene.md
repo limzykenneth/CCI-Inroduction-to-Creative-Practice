@@ -24,7 +24,7 @@ Cinema goers, movie fans. Think about how the work you are creating can help the
 - Reflection
 
 ## Schedule
-#### 18 October 2019
+#### 17 October 2019
 - 11:30 - Introduction to creative research
 - 12:00 - Workshop on doing primary research
 	- Instead of searching up info about your subject matter from existing source, we can conduct our own research into a subject matter to understand it better.
@@ -32,7 +32,7 @@ Cinema goers, movie fans. Think about how the work you are creating can help the
 - 13:00 - Introducing the brief for the next two weeks
 - 13:15 - Q&A time
 
-#### 25 October 2019
+#### 24 October 2019
 - 09:30 - Introduction to ideation methods
 - 10:00 - Ideation workshop
 	- We will be trying out a few methods of ideation in this workshop:
@@ -46,7 +46,7 @@ Cinema goers, movie fans. Think about how the work you are creating can help the
 	- You should also bring in some initial prototypes of the work you are planning to produce for the final crit.
 - 13:15 - Q&A time
 
-#### 1 November 2019
+#### 31 October 2019
 - 09:30 - Final crit
 
 ## Reference
