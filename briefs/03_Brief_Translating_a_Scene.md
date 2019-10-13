@@ -16,7 +16,7 @@ Read *Task of the Translator* before coming to the first session.
 Before coming to the second session, you should also watch [this Coding Train playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (at least until part 5).
 
 ## Audience
-Cinema goers, movie fans
+Cinema goers, movie fans. Think about how the work you are creating can help them see the movie in a whole new way.
 
 ## Deliverables
 - Documentation of research, ideation, and process
