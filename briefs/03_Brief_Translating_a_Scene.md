@@ -2,16 +2,18 @@
 ## Brief
 Translation is the process in which text in one language is converted to another while preserving its meaning. Translation, however, can also apply to mediums of communication. A book can be translated into a movie (eg. Harry Potter), a movie can be translated into a video game (eg. Spider-Man 2, released 2004), and many other such examples. For this brief, we will explore methods in which we can translate a movie scene into another medium.
 
+Choose a scene from one of the movies listed below. You should then thoroughly analyse said scene, in terms of production, semiotics, cienmatography, and relation to the rest of the story. For the final outcome, you should reinterpret/translate the scene you picked into an interactive experience. The experience can be a web page, a Processing/p5.js sketch, a physical interactive object, or in any other similar interactive medium.
+
 We will be introducing methods of conducting research in our creative projects in the first session which you will apply to the movie and scene you have chosen. We will review the research you have done in the second session.
 
 For the second session, we will build on the research done and introduce a few methods for generating ideas.
 
-At the end of this brief, you will have reinterpreted/translated the scene you picked into an interactive medium. You are expected to show the research you have done, the ideation process you have undertaken, documentation of your processes, and the final outcome of your work at the third session.
+You are expected to show the research you have done, the ideation process you have undertaken, documentation of your processes, and the final outcome of your work at the third session.
 
 ## Preparation
-Pick a movie from the reference list below and watch it before the first session, pick any scene from the movie which you will be working with over the next two weeks. Bring some basic information about the movie you picked and also about the scene you picked to the first session (the year created, the director, the cinematographer, etc).
+Read *Task of the Translator* before coming to the first session.
 
-You will require a computer for this session.
+Before coming to the second session, you should also watch [this Coding Train playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (at least until part 5).
 
 ## Audience
 Cinema goers, movie fans
@@ -26,7 +28,7 @@ Cinema goers, movie fans
 - 11:30 - Introduction to creative research
 - 12:00 - Workshop on doing primary research
 	- Instead of searching up info about your subject matter from existing source, we can conduct our own research into a subject matter to understand it better.
-	- We will do some data collection on ourselves to find out some facts about our relationship with technology.
+	- We will do some live data collection.
 - 13:00 - Introducing the brief for the next two weeks
 - 13:15 - Q&A time
 
@@ -38,9 +40,10 @@ Cinema goers, movie fans
 		- Brainstorming
 		- Synthesis
 		- The Scientific Method
-- 11:00 - Interim crit
+- 11:00 - Prototype crit
 	- We will be looking at the research you have done so far for the brief and also what direction you are taking the project in.
 	- For this session you should have an extensive body of research, both from primary and secondary sources.
+	- You should also bring in some initial prototypes of the work you are planning to produce for the final crit.
 - 13:15 - Q&A time
 
 #### 1 November 2019
