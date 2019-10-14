@@ -42,18 +42,29 @@
 ## Week 7 (7 November 2019)
 - 09:30 - Introduction to presentation
 - 10:00 - Mini presentation workshop
-- 11:45 - Interim crit
+- 11:45 - Prototype crit
 - 13:15 - Q&A time
 
 ## Week 8 (14 November 2019)
 - 09:30 - Presentation of work
-- TBD
+- 11:00 - Introduction to group work
+- 11:30 - Algorithmic art
+- 12:00 - Workshop (TBD)
+- 13:00 - Briefing for the next two weeks
+- 13:15 - Q&A time
 
 ## Week 9 (21 November 2019)
-- TBD
+- 09:30 - Balancing Creative and Technical needs
+- 10:00 - Workshop (TBD)
+- 11:45 - Prototype crit
+- 13:15 - Q&A time
 
 ## Week 10 (28 November 2019)
-- TBD
+- 09:30 - Final Crit
+- 11:00 - Writing
+- 11:30 - Writing workshop
+- 13:00 - Brefing for writing project
+- 13:15 - Q&A time
 
 ## Week 11 (5 December 2019)
 - TBD
