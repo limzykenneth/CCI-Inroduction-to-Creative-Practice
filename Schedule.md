@@ -30,7 +30,7 @@
 ## Week 5 (24 October 2019)
 - 09:30 - Introduction to ideation methods
 - 10:00 - Ideation workshop
-- 11:00 - Interim crit
+- 11:00 - Prototype crit
 - 13:15 - Q&A time
 
 ## Week 6 (31 October 2019)
