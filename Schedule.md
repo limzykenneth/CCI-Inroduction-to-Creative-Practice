@@ -49,13 +49,13 @@
 - 09:30 - Presentation of work
 - 11:00 - Introduction to group work
 - 11:30 - Algorithmic art
-- 12:00 - Workshop (TBD)
+- 12:00 - Algorithmic drawing workshop
 - 13:00 - Briefing for the next two weeks
 - 13:15 - Q&A time
 
 ## Week 9 (21 November 2019)
 - 09:30 - Balancing Creative and Technical needs
-- 10:00 - Workshop (TBD)
+- 10:00 - Physical prototyping workshop
 - 11:45 - Prototype crit
 - 13:15 - Q&A time
 

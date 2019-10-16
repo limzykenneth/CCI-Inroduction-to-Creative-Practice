@@ -8,6 +8,9 @@ You will be working in groups of two or three. Start by researching the particul
 
 You should consider the audience, the nature & use case of the algorithm, the amount of details to include, and the effectiveness of your design when creating your work. Since you will be working in groups for this, make sure you are assigning tasks to each of you and you are not expected to just do a fraction of the work, pull your weight.
 
+## Preparation
+Read *On meta-design and algorithmic design systems* before coming to the first session.
+
 ## Audience
 Portion of the adult public with a non-computer science background
 
@@ -20,13 +23,16 @@ Portion of the adult public with a non-computer science background
 #### 14 November 2019
 - 11:00 - Introduction to working in groups
 - 11:30 - Algorithmic art
-- 12:00 - Workshop (TBD)
+- 12:00 - Algorithmic drawing workshop
+	- Draw ice cream code with just one triangle, rectangle and circle
+	- Draw with just one `line()`
 - 13:00 - Briefing for the next two weeks
 - 13:15 - Q&A time
 
 #### 21 November 2019
 - 09:30 - Balancing Creative and Technical needs
-- 10:00 - Workshop (TBD)
+- 10:00 - Physical prototyping workshop
+	- Create physical prototypes to quickly test interfaces
 - 11:45 - Prototype crit
 - 13:15 - Q&A time
 
@@ -34,6 +40,8 @@ Portion of the adult public with a non-computer science background
 - 09:30 - Final Crit
 
 ## Reference
+- [On meta-design and algorithmic design systems](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) by Rune Madsen
+- [What is a design system?](https://programmingdesignsystems.com/what-is-a-design-system/index.html#what-is-a-design-system-OQAaTNQ)
 - [Secret Key Exchange (Diffie-Hellman)](https://www.youtube.com/watch?v=NmM9HA2MQGI) - Computerphile
 - [Sound of Sorting](https://www.youtube.com/watch?v=kPRA0W1kECg)
 	- https://panthema.net/2013/sound-of-sorting/
