@@ -54,7 +54,7 @@
 - 13:15 - Q&A time
 
 ## Week 9 (21 November 2019)
-- 09:30 - Balancing Creative and Technical needs
+- 09:30 - Abstraction
 - 10:00 - Physical prototyping workshop
 - 11:45 - Prototype crit
 - 13:15 - Q&A time

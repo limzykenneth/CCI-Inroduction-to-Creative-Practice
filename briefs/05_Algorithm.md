@@ -30,7 +30,7 @@ Portion of the adult public with a non-computer science background
 - 13:15 - Q&A time
 
 #### 21 November 2019
-- 09:30 - Balancing Creative and Technical needs
+- 09:30 - Abstraction
 - 10:00 - Physical prototyping workshop
 	- Create physical prototypes to quickly test interfaces
 - 11:45 - Prototype crit
