@@ -67,10 +67,13 @@
 - 13:15 - Q&A time
 
 ## Week 11 (5 December 2019)
-- TBD
+- 09:30 - Crit for writing project
+- 11:00 - Workshop
+- 13:00 - Final project briefing
+- 13:15 - Q&A time
 
 ## Week 12 (9 January 2019)
-- TBD
+- 09:30 - Interim crit OR Individual tutorial
 
 ## Week 13 (16 January 2019)
-- TBD
+- 09:30 - Final crit
