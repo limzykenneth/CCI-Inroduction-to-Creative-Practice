@@ -85,8 +85,8 @@ As creatives, we rarely work in complete isolation. Working with others is a ski
 
 
 ## Week 9
-### Balancing creative and technical needs
-The very nature of a creative computing discipline ensured that technical capabilities are as important as creative thinking. This is something that is also required in other creative disciplines. This week's session will look at how do we develop a project both creatively and technically, how to prevent one from limiting another, and how to identify and breakdown a problem both creatively and technically.
+### Abstraction
+Abstraction is the process of removing something from its original representation and viewing it in a new independent context. Abstraction can refer to the abstraction of form or the abstraction of ideas. In this session, we will look at abstractions in both creative practice and computational practice.
 
 
 ## Week 10
