@@ -80,8 +80,8 @@ For this session you have a taste of giving a presentation while preparing to gi
 
 
 ## Week 8
-### Intro to group work
-As creatives, we rarely work in complete isolation. Working with others is a skill that needs to be learnt as much as other skills like research or coding. This week's session we will give a more formal introduction to working with other people and each of you will be paired up with another person which you will need to work with for the next brief.
+### Algorithm
+What are algorithms? What are the use of algorithm in creative practice, beyond using prebuilt tools like Photoshop and PowerPoint? We take a look at algorithms, how to visualize them and how to use them in our own works.
 
 
 ## Week 9

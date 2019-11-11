@@ -4,9 +4,9 @@ Algorithm lies in the core of computing. All computations boils down to algorith
 
 For this brief, you will create a representation of algorithm that clearly communicates the nature of algorithm. You should choose a specific algorithm or a specific type of algorithm, for example: sorting algorithms, neural networks, or hashing algorithms.
 
-You will be working in groups of two or three. Start by researching the particular algorithm that you want to take on, some algorithms are more complicated than others, you don't have to understand them fully at this point but aim to get to a point where you are capable of explaining to a layman what the algorithm does in words. For the final piece, you should aim to create an interactive explanation of the inner workings of the algorithm.
+Start by researching the particular algorithm that you want to take on, some algorithms are more complicated than others, you don't have to understand them fully at this point but aim to get to a point where you are capable of explaining to a layman what the algorithm does in words. For the final piece, you should aim to create an interactive explanation of the inner workings of the algorithm.
 
-You should consider the audience, the nature & use case of the algorithm, the amount of details to include, and the effectiveness of your design when creating your work. Since you will be working in groups for this, make sure you are assigning tasks to each of you and you are not expected to just do a fraction of the work, pull your weight.
+You should consider the audience, the nature & use case of the algorithm, the amount of details to include, and the effectiveness of your design when creating your work.
 
 ## Preparation
 Read *On meta-design and algorithmic design systems* before coming to the first session.
@@ -25,8 +25,7 @@ Portion of the adult public with a non-computer science background
 - 11:30 - Algorithmic art
 - 12:00 - Algorithmic drawing workshop
 	- Draw ice cream code with just one triangle, rectangle and circle
-	- Draw with just one `line()`
-- 13:00 - Briefing for the next two weeks
+- 13:00 - Briefing
 - 13:15 - Q&A time
 
 #### 21 November 2019
